@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Testing Git Dev</h1>
+        <h6>This is a small description</h6>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
